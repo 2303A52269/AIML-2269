@@ -8,7 +8,7 @@ WEEK-3
 https://github.com/2303A52269/AIML-2025/blob/main/AIML_WEEK_3.ipynb.
 
 WEEK-4
-https://github.com/2303A52269/AIML-2025/blob/main/AIML_WEEK_4ipynb.ipynb
+https://github.com/2303A52269/AIML-2025/blob/main/AIML_WEEK_4.ipynb.
 
 WEEK-5
 https://github.com/2303A52269/AIML-2025/blob/main/Copy_of_AIML_Week_5.ipynb

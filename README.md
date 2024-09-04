@@ -6,3 +6,6 @@ https://github.com/2303A52269/AIML-2025/blob/main/LAB%202.ipynb
 
 WEEK-3
 https://github.com/2303A52269/AIML-2025/blob/main/Copy_of_AIML_week_3.ipynb
+
+WEEK-4
+https://github.com/2303A52269/AIML-2025/blob/main/Copy_of_AIML_Week_5.ipynb

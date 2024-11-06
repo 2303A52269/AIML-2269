@@ -22,5 +22,8 @@ https://github.com/2303A52269/AIML-2269/blob/main/AIML_WEEK_7.ipynb
 Week-8
 https://github.com/2303A52269/AIML-2269/blob/main/AIML_Week_8_.ipynb
 
+Week-9
+https://github.com/2303A52269/AIML-2269/blob/main/AIML_WEEK_9.ipynb
+
 Week-10
 https://github.com/2303A52269/AIML-2269/blob/main/AIML_WEEK_10(k-mean)_.ipynb
